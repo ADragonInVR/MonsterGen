@@ -1,0 +1,2 @@
+# MonsterGen
+yes
